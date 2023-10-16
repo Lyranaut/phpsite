@@ -1,1 +1,1 @@
-Program for tile delivery calculator
+Web application for tile delivery calculator
